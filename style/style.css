@@ -36,15 +36,12 @@ main{
     margin-bottom: 50px;
 }
 .container header{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-
+   display: flex;
+   justify-content: center;
 }
 .logo img{
     width: 200px;
-    
+   margin-top: -200px; 
 }
 .links-redes{
      background-color: #fff;
